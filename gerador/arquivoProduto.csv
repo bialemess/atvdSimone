@@ -1,0 +1,11 @@
+id,nome,setor,"unidademedida, quantidadeEstoque"
+1,lápis,papelaria,unidade,60
+2,café,alimentar,"pacote ",30
+3,máquina1,obras,unidade,5
+4,papel,papelaria,centena,20
+5,tinta,obras,galões,20
+6,máquina2,obras,unidade,20
+7,cimento,obras,pacote,2
+8,pá,geral,unidade,6
+9,arame,geral,metro,7
+10,fita,geral,metro,40
